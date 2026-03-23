@@ -1,4 +1,4 @@
-<h3 align="center">Currently studying Python | Django </h3> 
+<h3 align="center">Currently studying Delphi </h3> 
 
 <h3 align="left">Mini resume</h3>
 <p align="left"> 👨‍💻 I'm a Back-End Developer currently working on AI multi-agent systems and server-side architecture. I specialize in building scalable and efficient back-end solutions, and I'm always exploring new technologies to push boundaries. I also have solid experience with front-end development using HTML, CSS, JavaScript, and modern frameworks like React and Vue.js. I'm looking for opportunities to grow, collaborate, and contribute to impactful projects.</p>

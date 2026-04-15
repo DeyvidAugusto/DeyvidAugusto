@@ -1,7 +1,7 @@
 <h3 align="center">Currently studying Delphi </h3>
 
 <h3 align="left">Mini resume</h3>
-<p align="left"> 👨‍💻 I'm a Back-End Developer currently working on AI multi-agent systems and server-side architecture. I specialize in building scalable and efficient back-end solutions, and I'm always exploring new technologies to push boundaries. I also have solid experience with front-end development using HTML, CSS, JavaScript, and modern frameworks like React and Vue.js. I'm looking for opportunities to grow, collaborate, and contribute to impactful projects.</p>
+<p align="left"> 👨‍💻 Full-Stack Developer at Dexion, leveraging Delphi as the core system while utilizing React, Python, and TypeScript when needed to enhance and integrate with the platform. I build robust solutions that connect and improve existing systems. I'm a graduated professional open to new project opportunities and collaborations. I enjoy creating useful projects in my spare time, using my knowledge to develop practical solutions that can help me and serve others.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

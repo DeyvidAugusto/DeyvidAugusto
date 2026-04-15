@@ -19,15 +19,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.embarcadero.com/products/delphi" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Delphi.svg" alt="delphi" width="40" height="40"/> </a>
-  <a href="https://www.embarcadero.com/products/delphi" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Delphi.svg" alt="delphi" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Git.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJs.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Html.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/JavaScript.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TypeScript.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Django.svg" alt="django" width="40" height="40"/> </a>
 </p>

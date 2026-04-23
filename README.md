@@ -18,6 +18,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Django.svg" alt="django" width="40" height="40"/> </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.embarcadero.com/products/delphi" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Delphi.svg" alt="delphi" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg" alt="react" width="40" height="40"/> </a>
@@ -28,5 +30,4 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Django.svg" alt="django" width="40" height="40"/> </a>
 </p>

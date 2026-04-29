@@ -2,6 +2,7 @@
 
 <h3 align="left">Mini resume</h3>
 <p align="left"> 👨‍💻 Full-Stack Developer at Dexion, leveraging Delphi as the core system while utilizing React, Python, and TypeScript when needed to enhance and integrate with the platform. I build robust solutions that connect and improve existing systems. I'm a graduated professional open to new project opportunities and collaborations. I enjoy creating useful projects in my spare time, using my knowledge to develop practical solutions that can help me and serve others.</p>
+![](https://github-readme-stats.vercel.app/api?username=DeyvidAugusto&theme=dark&show_icons=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
